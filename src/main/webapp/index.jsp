@@ -4,7 +4,7 @@
    <head> 
 
 
-      <title> Dynamic Application Example </title> 
+      <title> <b> Dynamic Application Example </b> </title> 
    </head>
  
    <body> 
